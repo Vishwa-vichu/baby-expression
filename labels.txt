@@ -1,0 +1,4 @@
+0 crying
+1 sleeping
+2 smile
+3 angry
